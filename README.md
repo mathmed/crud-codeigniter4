@@ -10,8 +10,8 @@ $ git clone https://github.com/mathmed/crud-codeigniter4.git
 
 ## Setting up the database
 
-First of all, you need to configure a database. Import the `.crudci4.sql` located in the project root in your MYSQL database.  
-After do this, set your database config in  `/app/config/Database.php`.  
+First of all, you need to configure a database. Import the `crud-codeigniter4/crudci4.sql` located in the project root in your MYSQL database.  
+After do this, set your database config in  `crud-codeigniter4/app/config/Database.php`.  
 
 ## Starting the server
 
