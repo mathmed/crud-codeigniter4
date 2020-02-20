@@ -1,4 +1,4 @@
-# crud-codeigniter4
+# C.R.U.D Code Igniter v4
 Simple CRUD example using the new version of code igniter (4)
 
 ## Getting start
